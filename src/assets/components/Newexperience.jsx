@@ -44,21 +44,21 @@ const Newexperience = () => {
                 </motion.div>
                 <div className="p-5 ml-8 col-span-1">
                     <motion.div style={{opacity:opacity1}} className=" px-4 pb-10 border-l-2">
+                        <div className="lg:text-4xl md:text-2xl font-ClashDisplay font-medium">
+                            Data Engineer
+                        </div>
+                        <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
+                        <div>2025, Mar -2025, May</div>
+                        <div>@tata Consultancy Services</div>
+                        </motion.div>
+                    </motion.div>
+                    <motion.div style={{opacity:opacity2}} className=" px-4 pb-10 border-l-2">
                         <div className="lg:text-4xl md:text-2xl font-ClashDisplay font-medium ">
                           Frontend Dev Intern
                         </div>
                         <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
                           <div>2023, sept -2023, Nov</div>
                           <div>@AIMagix</div>
-                        </motion.div>
-                    </motion.div>
-                    <motion.div style={{opacity:opacity2}} className=" px-4 pb-10 border-l-2">
-                        <div className="lg:text-4xl md:text-2xl font-ClashDisplay font-medium">
-                            Worked on Machine Learning
-                        </div>
-                        <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
-                        <div>2023, sept -2023, Nov</div>
-                        <div>@AIMagix</div>
                         </motion.div>
                     </motion.div>
                     <motion.div style={{opacity:opacity3}} className=" px-4 pb-10 border-l-2">

@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import external from '/images/icons/external.png'
+import external from '/images/icons/next.png'
 
 
 const Portfoliolist = (props) => {
@@ -15,9 +15,9 @@ const Portfoliolist = (props) => {
         2:
         {
             number: '02',
-            title: 'AI Magix Homepage',
-            description:'Helped to Create an Intdustial standard home page,web page,developed using Angular ⛈️',
-            link:'https://aimagix.com/'
+            title: 'Folio Web App',
+            description:'personalized book recommendations based on their preferences, allows them to search for books by various criteria ⛈️',
+            link:'https://github.com/d-man1212/Folio'
         },
         3:
         {
@@ -74,7 +74,12 @@ const Portfoliolist = (props) => {
                             {data[key].description}
                         </div>
                         <motion.div  className=' flex justify-end col-span-2 md:col-span-1'>
-                            <motion.img className='w-14 '  variants={variantButton}  src={external} alt="" />
+                            <motion.img className='w-8 '  
+                                variants={variantButton} 
+                                whileHover={{ rotate: -45, transition: { type: 'spring', stiffness: 400, damping: 13, duration: 0.5 } }}  
+                                src={external} 
+                                alt="" 
+                            />
                         </motion.div>
                     </motion.div>
                 </a>
