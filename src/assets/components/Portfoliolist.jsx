@@ -9,28 +9,28 @@ const Portfoliolist = (props) => {
         {
             number: '01',
             title: 'My Portfolio',
-            description:'A WebPage for Showcasing my Perivious Work developed Using React, Vite, TailwindCss and Framer  Motion ️⭐ ',
+            description:'A webpage for showcasing my previous work, developed using React, Vite, Tailwind CSS, and Framer Motion ️⭐ ',
             link:'https://github.com/gururock007/Portfolio'
         },
         2:
         {
             number: '02',
             title: 'Folio Web App',
-            description:'personalized book recommendations based on their preferences, allows them to search for books by various criteria ⛈️',
+            description:'Provides personalized book recommendations based on user preferences and allows searching for books by various criteria ⛈️',
             link:'https://github.com/d-man1212/Folio'
         },
         3:
         {
             number: '03',
             title: 'OTPfiy',
-            description:'Your lightning-fast OTP solution for small projects, ditching complexity for instant verification magic. ✨',
+            description:'A lightning-fast OTP solution for small projects, eliminating complexity for instant verification magic ✨',
             link: 'https://github.com/gururock007/OTPfiy'
         },
         4:
         {
             number: '04',
-            title: 'Mobile Prediction',
-            description:'Python-based model predicts smartphone prices with scikit-learn. Trained on features like RAM, camera, and battery, with data from a diverse device set.⚡️',
+            title: 'Mobile Price Prediction',
+            description:'A Python-based model that predicts smartphone prices using scikit-learn. Trained on features such as RAM, camera, and battery, with data collected from a diverse set of devices ⚡️',
             link:'https://github.com/gururock007/mobile_price_prediction_model'
         },
     }
