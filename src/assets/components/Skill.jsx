@@ -3,11 +3,11 @@ import SkillElements from "./SkillElements"
 const Skill = () => {
 
   const programing = [
-    "React Js","Python, Java", "photoShop, Figma", "GitHub, Canva", "Vs Code","Angular", "&More"]
+    "React JS","Python, Java", "Photoshop, Figma", "GitHub, Canva", "VS Code","Angular", "&More"]
 
-  const soft = ["Team Work", "Communication","AdAapability","Curiosity", "Empathy", "Collaboration"]
+  const soft = ["Team Work", "Communication","Adaptability","Curiosity", "Empathy", "Collaboration"]
   
-  const hard = ["Research","Coding","Excel" ,"Power Point","Management"]
+  const hard = ["Research","Coding","Excel" ,"PowerPoint","Management"]
 
   return (
     <div  className="">
