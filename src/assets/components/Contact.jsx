@@ -52,7 +52,7 @@ const Contact = (props) => {
                 onMouseLeave={setDefault}  
                 className="  text-white  text-decoration-none socials-link">
                     <span className=" border-2 text-lg rounded-full p-2 ps-4 pe-4">
-                        Git Hub
+                        GitHub
                     </span>
                 </a>
             </motion.div>
