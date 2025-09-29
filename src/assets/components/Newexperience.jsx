@@ -48,8 +48,8 @@ const Newexperience = () => {
                             Data Engineer
                         </div>
                         <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
-                        <div>2025, Mar -2025, May</div>
-                        <div>@tata Consultancy Services</div>
+                        <div>2025 Mar - 2025 May</div>
+                        <div>@Tata Consultancy Services</div>
                         </motion.div>
                     </motion.div>
                     <motion.div style={{opacity:opacity2}} className=" px-4 pb-10 border-l-2">
@@ -57,7 +57,7 @@ const Newexperience = () => {
                           Frontend Dev Intern
                         </div>
                         <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
-                          <div>2023, sept -2023, Nov</div>
+                          <div>2023 Sept - 2023 Nov</div>
                           <div>@AIMagix</div>
                         </motion.div>
                     </motion.div>
@@ -66,8 +66,8 @@ const Newexperience = () => {
                         Product Dev Intern
                         </div>
                         <motion.div style={{}} className=" font-ClashDisplay font-light text-sm">
-                        <div>2022, Mar -2023, Mar</div>
-                        <div>@Buissniess Invvovation Club</div>
+                        <div>2022 Mar - 2023 Mar</div>
+                        <div>@Business Innovation Club</div>
                         </motion.div>
                     </motion.div>
                 </div> 
